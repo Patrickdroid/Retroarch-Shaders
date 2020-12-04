@@ -208,3 +208,4 @@ SamplerLUT3 = "shaders_slang/crt/shaders/guest/lut/other1.png"
 SamplerLUT3_linear = "true"
 SamplerLUT3_wrap_mode = "clamp_to_border"
 SamplerLUT3_mipmap = "false"
+
