@@ -1,0 +1,4 @@
+#reference "test3.slangp"
+shadowMask = "7.000000"
+masksize = "2.000000"
+mclip = "0.700000"

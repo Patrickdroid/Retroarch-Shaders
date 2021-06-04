@@ -1,0 +1,4 @@
+#reference "test2.slangp"
+beam_max = "1.200000"
+shadowMask = "8.000000"
+slotwidth = "4.000000"
