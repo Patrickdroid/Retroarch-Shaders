@@ -1,5 +1,0 @@
-#reference "test0.slangp"
-GAMMA_INPUT = "2.199999"
-shadowMask = "8.000000"
-masksize = "1.000000"
-gamma_out = "2.500000"
