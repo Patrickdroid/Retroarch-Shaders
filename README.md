@@ -1,5 +1,7 @@
 # Retroarch-Shaders
 
+Configuring the phosophor mask can be a bit daunting for those unfamiliar with all the settings, so here I've put together some good mask settings to use with 1080p displays. Enjoy.
+
 low TVL = 270 TVL
 
 medium TVL = 360 TVL
